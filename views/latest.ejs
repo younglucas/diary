@@ -1,0 +1,11 @@
+<h1>Latest</h1>
+<div class="posts" id="posts">
+  <% posts.forEach(p => { %>
+  <div class="post" data-id="<%= p.id %>"><%= p.title %></div>
+  <% }) %>
+</div>
+<div class="modal" id="modal">
+  <div class="modal-content" id="modal-content"></div>
+  <button id="close">Close</button>
+</div>
+
