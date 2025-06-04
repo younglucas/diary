@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Design Leadership at National Geographic",
+    "content": "I manage the user experience practice at the National Geographic Society, guiding research and design for digital storytelling."
+  },
+  {
+    "id": 2,
+    "title": "Research-driven Approach",
+    "content": "My background in UX research informs every project. I combine qualitative and quantitative methods to craft user-centered products."
+  },
+  {
+    "id": 3,
+    "title": "Collaborative Process",
+    "content": "I believe in cross-disciplinary collaboration. Whether working with editors, developers or photographers, I'm passionate about building teams that create engaging experiences."
+  }
+]
